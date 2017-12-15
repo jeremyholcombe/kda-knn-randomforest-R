@@ -1,0 +1,11 @@
+base
+dplyr
+ggplot2
+ks
+scatterplot3d
+randomForest
+lattice
+caret
+xtable
+knitr
+GGally
